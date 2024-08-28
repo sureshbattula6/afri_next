@@ -91,5 +91,8 @@ class InventoryScanController extends Controller
         }
     }
 
+    //public function test(){
+
+    //} 
 
 }
